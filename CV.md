@@ -3,14 +3,12 @@ csdunn@uark.edu
  
 ## Education ## 
 **University of Arkansas**
-> Fayetteville, Arkansas
-
+Fayetteville, Arkansas
 *Ph.D., Cell and Molecular Biology*
-> May 2022 (anticipated)
+May 2022 (anticipated)
 
 **Brigham Young University**
-> Provo, Utah
-
+Provo, Utah
 *College of Life Sciences/B.S. Medical Laboratory Science*						        
 June 2017
 * Recipient of the Richard D. and Pauline S. Sager’s Scholarship
