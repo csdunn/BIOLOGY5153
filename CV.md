@@ -1,34 +1,35 @@
-## Celeste S. Dunn ##
+# Celeste S. Dunn #
 csdunn@uark.edu
 
 
  
-# Education # 
-_University of Arkansas*_
+## Education ## 
+**University of Arkansas**
 Fayetteville, Arkansas
 
 *Ph.D., Cell and Molecular Biology*						                          	       	         May 2022 (anticipated)
 
-_Brigham Young University_ 						      		                                 Provo, Utah
+**Brigham Young University** 						      		                                 Provo, Utah
 *College of Life Sciences/B.S. Medical Laboratory Science*						         June 2017
-•	Recipient of the Richard D. and Pauline S. Sager’s Scholarship
-•	GPA: 3.67/4.0
+*Recipient of the Richard D. and Pauline S. Sager’s Scholarship
+*GPA: 3.67/4.0
  
 
-RESEARCH EXPERIENCE
-University of Arkansas, Mechanobiology and Soft Materials Laboratory	        		  August 2017 – Present
-Ph.D. Student									       PI: Dr. Kartik Balachandran  
-•	The goal of my research is to study the molecular responses of astrocytes following one or more traumatic brain injuries (TBI) and the investigation of common secondary injuries that occur as a result of the primary insult.
-•	
+## Research Experience ## 
 
-American Fork Hospital 								             Jan 2017 – August 2017
-Medical Laboratory Science Intern                  
-•	Oversaw all quality controls and procedures on lab specimens including: blood, urine, stool and tissue samples.
-•	Performed all clinical tests in blood bank, chemistry, hematology and microbiology departments in the hospital laboratory. 
-•	Drew blood from patients in outpatient clinic to provide further results in patients’ plan of care. 
+**University of Arkansas, Mechanobiology and Soft Materials Laboratory**	        		  August 2017 – Present
+*Ph.D. Student*									       PI: Dr. Kartik Balachandran  
+*The goal of my research is to study the molecular responses of astrocytes following one or more traumatic brain injuries (TBI) and the investigation of common secondary injuries that occur as a result of the primary insult.
 
-University of Arkansas, Mechanobiology and Soft Materials Laboratory		           June 2016 – August 2016
-Student Research Assistant								             	                
+
+**American Fork Hospital** 								             Jan 2017 – August 2017
+*Medical Laboratory Science Intern*                  
+*Oversaw all quality controls and procedures on lab specimens including: blood, urine, stool and tissue samples.
+*Performed all clinical tests in blood bank, chemistry, hematology and microbiology departments in the hospital laboratory. 
+*Drew blood from patients in outpatient clinic to provide further results in patients’ plan of care. 
+
+**University of Arkansas, Mechanobiology and Soft Materials Laboratory**		           June 2016 – August 2016
+*Student Research Assistant*								             	                
 •	Studied the proteins of mouse astrocytes following a stimulated traumatic brain injury on a mechanical device.
 •	Researched best methods for stimulating a blood brain barrier using PDMS gel and dextran. 
 •	Performed procedures of the astrocyte project including: preparing and sterilizing plate and membrane, seeding astrocytes on membranes, stretching membranes, extracting cells, running BCA assays, gel electrophoresis and western blotting.  
