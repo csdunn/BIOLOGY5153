@@ -8,7 +8,7 @@ csdunn@uark.edu
 > May 2022 (anticipated)
 
 **Brigham Young University**
-Provo, Utah
+> Provo, Utah
 *College of Life Sciences/B.S. Medical Laboratory Science*						        
 June 2017
 * Recipient of the Richard D. and Pauline S. Sager’s Scholarship
